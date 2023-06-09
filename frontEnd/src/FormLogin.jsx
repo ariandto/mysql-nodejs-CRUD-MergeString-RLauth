@@ -41,7 +41,7 @@ const FormLogin = () => {
               <button type="submit" className="btn btn-primary btn-block">Login</button>
             </form>
             <div className="text-center mt-3">
-              <a href="/register">Create an account</a>
+              <a href="/register">Sign Up</a>
             </div>
           </div>
         </div>
