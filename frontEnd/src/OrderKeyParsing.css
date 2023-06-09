@@ -1,0 +1,14 @@
+.order-key-parsing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .order-key-parsing-inner {
+    max-width: 400px;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 4px;
+  }
+  
